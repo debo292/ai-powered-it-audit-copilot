@@ -1,0 +1,7 @@
+control_id,control_name,preliminary_rating,sample_observation
+IAM-01,User access recertification,High,Review export shows 12 terminated or transferred users still assigned active access at review cut-off; 5 have no remediation ticket.
+CHG-01,Production change approvals,Medium,Sample of 25 changes: 23 have pre-implementation approvals; 2 emergency changes have retrospective approvals 9 and 14 days after deployment.
+VUL-01,Critical vulnerability remediation,High,"Scan report shows 4 critical vulnerabilities older than the 15-day remediation target; one has an approved exception, three have no exception record."
+PAT-01,Server patch compliance,Medium,Patch dashboard reports 92% compliance. 8 servers are overdue; owner comments are present but risk acceptance evidence is missing for 3 servers.
+BKP-01,Backup job monitoring,Low,Daily backup logs show 30 of 30 jobs successful for the selected sample period. Weekly restore test evidence is attached and signed.
+MON-01,Security alert review,Medium,SIEM case export shows 18 alerts sampled; 16 have investigation notes. Two alerts were closed without documented rationale.
