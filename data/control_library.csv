@@ -1,0 +1,9 @@
+
+control_id,control_name,domain,control_description,expected_evidence
+IAM-01,User Access Recertification,IAM,Periodic review of user access to ensure access remains appropriate,Access review reports and remediation tickets
+IAM-02,Privileged Access Management,IAM,Privileged access is approved monitored and periodically reviewed,Privileged account inventory and approval records
+CHG-01,Production Change Management,Change Management,Production changes are tested approved and authorised,Change tickets approvals and testing evidence
+VUL-01,Critical Vulnerability Remediation,Vulnerability Management,Critical vulnerabilities are remediated within defined timelines,Vulnerability scan reports remediation records and exceptions
+PAT-01,Patch Compliance,Patch Management,Systems receive security patches within defined timelines,Patch compliance reports and deployment records
+BKP-01,Backup and Recovery,Backup and Recovery,Backups are monitored and recovery is periodically tested,Backup logs and restore test reports
+MON-01,Security Alert Monitoring,Security Monitoring,Security alerts are reviewed investigated and escalated,SIEM alerts investigation records and escalation tickets
