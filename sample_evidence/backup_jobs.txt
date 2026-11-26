@@ -1,0 +1,9 @@
+SYNTHETIC EVIDENCE - FICTIONAL BANK
+Period: 01-Sep-2026 to 30-Sep-2026
+Scheduled backup jobs: 30
+Successful jobs: 30
+Failed jobs: 0
+Daily monitoring owner sign-off: Present
+Weekly restore test: Completed 18-Sep-2026
+Restore test result: Successful
+Evidence limitation: No independent confirmation of backup immutability or offsite replication included.

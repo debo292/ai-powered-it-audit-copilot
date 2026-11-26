@@ -1,0 +1,10 @@
+SYNTHETIC EVIDENCE - FICTIONAL BANK
+Control: IAM-01 User access recertification
+Period: 01-Apr-2026 to 30-Sep-2026
+Review owner: Application Operations
+Review completed: 05-Oct-2026
+Population: 420 user accounts
+Reviewer sign-off: Present
+Exceptions identified: 12 accounts belonging to terminated or transferred employees remained active at review cut-off.
+Remediation: 7 tickets marked closed; 5 exceptions have no remediation ticket reference.
+Evidence limitation: This extract does not include HR termination feed reconciliation or proof that all 420 accounts were in scope.

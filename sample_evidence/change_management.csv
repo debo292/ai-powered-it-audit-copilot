@@ -1,0 +1,6 @@
+ticket_id,change_type,environment,approval_status,test_evidence,implementation_date,retrospective_review
+CHG-1001,Normal,Production,Approved,Attached,2026-08-04,Not applicable
+CHG-1002,Normal,Production,Approved,Attached,2026-08-11,Not applicable
+CHG-1003,Emergency,Production,Approved after deployment,Attached,2026-08-18,Completed 2026-08-27
+CHG-1004,Emergency,Production,Approved after deployment,Missing,2026-08-21,Completed 2026-09-04
+CHG-1005,Normal,Production,Approved,Attached,2026-09-02,Not applicable
